@@ -88,7 +88,9 @@ email: "cx@cs.cmu.edu"
 navigation_header:
   Home: /
 #  Call for Participation: /cfp/
-  Submit: /submit/
+  Program: /program/
+  Keynotes: /Keynotes/
+  Proceedings: http://ceur-ws.org/Vol-1883/
   Important Dates: /dates/
   Organization: /organization/
 

@@ -1,5 +1,5 @@
 ---
-title: CALL FOR PARTICIPATION
+title: Overview
 feature_text: | 
   ### KG4IR: The First Workshop on Knowledge Graphs and Semantics for Text Retrieval and Analysis 
   held in conjunction with ACM SIGIR 2017, Tokyo, Japan, August 11, 2017
@@ -34,18 +34,12 @@ Topics of this workshop include but are not limited to:
   - complex answer retrieval
 
 
-Activities
----------------
+[Programs](/program)
 
 
-This workshop features keynotes, a discussion panel, as well as poster and oral presentations.
 
-* Keynotes will be presented by invited speakers from industry and/or academia who are leading experts in relevant topics.
-* The panel discussion will host discussions about current progress, processes, challenges, joint efforts, and potential research directions in KG4IR.
-* Oral presentations will feature presentations from accepted papers with the option of also presenting them as posters; those with highest potential to spark discussions will be favored in the selection process.
-
-
-[Paper Submission](/submit)
+[Proceedings](http://ceur-ws.org/Vol-1883/)
 
 [Important Dates](/dates)
 
+Join our mailing list: kg4ir@googlegroups.com

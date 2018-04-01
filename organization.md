@@ -17,22 +17,30 @@ where he also obtained his Ph.D. He has published 60+ peer-reviewed papers at to
 
 ### Program Committee
 
-* Dyaa Albakour, Signal Media 
-* Avishek Anand, L3S Research Center 
-* Michael Schuhmacher, University of Mannheim
-* Djoerd Hiemstra, University of Twente 
-* Ingo Frommholz, University of Bedfordshire
-* Johannes Hoffart, Max Planck 
-* Ioana Hulpus, Mannheim University	
-* Christina Lioma, University of Copenhagen 
-* Zhiyuan Liu, Tsinghua University 
-* Vinay Setti, Aalborg University 
-* Jun Xu, Chinese Academic of Science 
-* Tongfei Chen, Johns Hopkins University 
-* John Foley, University of Massachusetts,Amherst 
-* Faegheh Hasibi, Norwegian University of Science and Technology  
-* Lifu Huang, Rensselaer Polytechnic Institute 
-* Federico Nanni, Mannheim University 
-* Hadas Raviv, Technion,Haifa,Israel  
-* Nikos Voskarides, University of Amsterdam 
-* Hamed Zamani, University of Massachusetts Amherst
+* Achim Rettinger,    Karlsruhe Institute of Technology
+* Alexander Kotov,    Wayne State University
+* Avishek Anand,    L3S Research Center
+* Bhavana Dalvi,    Allen Institute for Artificial Intelligence
+* Christina Lioma,    University of Copenhagen
+* Djoerd Hiemstra,    University of Twente
+* Faegheh Hasibi,    Norwegian University of Science and Technology
+* Federico Nanni,    Data and Web Science Group, University of Mannheim
+* Hadas Raviv,    Technion - Israel Institute of Technology
+* Hamed Zamani,    University of Massachusetts Amherst
+* Ingo Frommholz,    University of Bedfordshire
+* Ioana Hulpus,    University of Mannheim, Germany
+* Jeffrey Dalton,    Google, Inc.
+* Johannes Hoffart,    Max Planck Institute for Informatics
+* John Foley,    University of Massachusetts Amherst
+* Jun Xu,    Institute of Computing Technology, Chinese Academy of Sciences
+* Lifu Huang,    Rensselaer Polytechnic Institute
+* Lydia Weiland,    University of Mannheim
+* M-Dyaa Albakour,   Signal Media
+* Michael Schuhmacher,    SpringerNature, Heidelberg, Germany
+* Mostafa Dehghani,    University of Amsterdam
+* Nikos Voskarides,    University of Amsterdam
+* Pushpendre Rastogi,    Johns Hopkins University
+* Ridho Reinanda,    University of Amsterdam
+* Tongfei Chen,    Johns Hopkins University
+* Vinay Setty,    Aalborg University
+* Zhiyuan Liu,    Tsinghua University
