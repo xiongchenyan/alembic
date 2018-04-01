@@ -6,6 +6,7 @@ We solicit two kinds of contributions: research papers and talk abstracts.
 (1) Research papers describing innovative ongoing research, position papers, shared tasks and benchmarks, as well as practical reports about application of knowledge graph technology.
 
 Papers have to be:
+
 - limited to 5 pages (plus 1 page of only citations and screenshots)
 - single-blind or double-blind
 - formatted in CEUR-WS compatible format (http://kg4ir.github.io/template/)
@@ -14,6 +15,7 @@ System (please select research paper category): https://easychair.org/conference
 
 
 (2) Talk abstracts about future trends, tasks, and open problems, as well as talk abstracts about papers simultaneously submitted to the KG4IR Special Issue KG4IR at the Information Retrieval Journal.
+
 
 Talk abstracts have to be:
 - limited to 1 page including citations

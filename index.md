@@ -1,5 +1,5 @@
 ---
-title: CALL FOR PARTICIPATION
+title: Overview
 feature_text: | 
   ### KG4IR The Second Workshop on Knowledge Graphs and Semantics for Text Retrieval, Analysis, and Understanding 
   held in conjunction with ACM SIGIR 2018, Ann Arbour, MI, USA, July 12, 2018
@@ -42,6 +42,7 @@ Topics of this workshop include but are not limited to:
   - complex answer retrieval
 
 
+
 Dual Submission to the KG4IR Special Issue at the Information Retrieval Journal
 -------------------------------------------------------------------------------
 
@@ -54,5 +55,7 @@ Authors planning a submission to the KG4IR Special Issue in the Information Retr
 
 [Paper Submission](/submit)
 
+
 [Important Dates](/dates)
 
+Join our mailing list: kg4ir@googlegroups.com
