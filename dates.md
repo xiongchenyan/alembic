@@ -2,28 +2,16 @@
 title: Important Dates
 ---
 
-In order to accommodate time for visas and travel arrangements while also providing the option for "hot off the press" papers, we offer two submission/review cycles.
-
-- 1st Submission deadline:  May 16, 2017
-- 1st Reviews due:          June 5, 2017
-- 1st Notifications:        June 9, 2017
-
-- 2nd Submission deadline:  June 27, 2017
-- 2nd Reviews due:          July 17, 2017
-- 2nd Notifications:        July 20, 2017
-
-- Camera-ready version: TBD
-- Workshop day:         August 11, 2017
-- SIGIR Main Conference: August 7 - August 11, 2017
+We will offer one submission deadline for both research papers and talk abstracts.
 
 
-### Latex Template for Submission
-
-To ensure the copyright stays with the authors, please use this template for submission and camera-ready version.
-
-- [Latex template](/template/onecolceurws.sty) (please submit as DIN A4)
-- [Example Latex](/template/paper1.tex)
-- [Example PDF](/template/paper1.pdf)
-- [Example bib](/template/samplebib.bib)
+Submission deadline:  May 4, 2018
+Reviews due:          May 25, 2018
+Notifications:        May 28, 2018
 
 
+Camera-ready version:     June 8, 2018
+Workshop day:             July 12, 2017
+Conference:               July 8 - July 12
+
+Please see [Submission instructions](/submit/).
