@@ -2,9 +2,8 @@
 title: Elements
 feature_text: |
   A demo of Markdown and HTML includes
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "https://unsplash.it/1300/400?image=1061"
 excerpt: "A demo of Markdown and HTML includes"
-aside: true
 ---
 
 # Heading 1
@@ -21,11 +20,11 @@ aside: true
 
 <small>A small element</small>
 
-[A link](https://david.darn.es "A link")
+[A link](# "A link")
 
 Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
 
-Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
+Duis aute irure dolor in [a link](# "a link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
 
 * An item
 * An item
@@ -41,37 +40,10 @@ Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit 
 
 > A simple blockquote
 
-Some HTML...
-
 ``` html
-<blockquote cite="http://www.imdb.com/title/tt0284978/quotes/qt1375101">
-  <p>You planning a vacation, Mr. Sullivan?</p>
-  <footer>
-    <a href="http://www.imdb.com/title/tt0284978/quotes/qt1375101">Sunways Security Guard</a>
-  </footer>
-</blockquote>
-```
-
-...CSS...
-
-``` css
-blockquote {
-  text-align: center;
-  font-weight: bold;
-}
-blockquote footer {
-  font-size: .8rem;
-}
-```
-
-...and JavaScript
-
-``` js
-const blockquote = document.querySelector("blockquote")
-const bolden = (keyString, string) =>
-  string.replace(new RegExp(keyString, 'g'), '<strong>'+keyString+'</strong>')
-
-blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
+<div>
+  <span>Some example code</span>
+</div>
 ```
 
 `Single line of code`
@@ -84,28 +56,24 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 
 ### Demo map embed
 
-{% include map.html id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc" title="Coffee shop map" %}
+{% include map.html id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc" %}
 
 ### Button include
 
 {% include button.html text="A button" link="https://david.darn.es" %}
 
-{% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}
-
 ### Icon include
 
-{% include icon.html id="twitter" title="twitter" %} [{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes)
+{% include icon.html id="twitter" %}
 
 ### Video include
 
-{% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}
+{% include video.html id="zrkcGL5H3MU" %}
 
 ### Image includes
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Image with caption" width="300" height="800" %}
+{% include figure.html image="https://unsplash.it/300/400?image=123" caption="This image has a caption" %}
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
+{% include figure.html image="https://unsplash.it/300/400?image=123" position="right" %}
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" position="left" caption="Center aligned image" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}
+{% include figure.html image="https://unsplash.it/2000/400?image=123" position="full" %}
