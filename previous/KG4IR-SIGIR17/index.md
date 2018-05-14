@@ -49,11 +49,11 @@ This workshop features keynotes, a discussion panel, as well as poster and oral 
 * The panel discussion will host discussions about current progress, processes, challenges, joint efforts, and potential research directions in KG4IR.
 * Oral presentations will feature presentations from accepted papers with the option of also presenting them as posters; those with highest potential to spark discussions will be favored in the selection process.
 
-[Paper Proceedings](/proceedings)
+[Paper Proceedings](/previous/KG4IR-SIGIR17/proceedings)
 
-[Keynotes](/Keynotes)
+[Keynotes](/previous/KG4IR-SIGIR17/Keynotes)
 
-[Workshop Program](/program)
+[Workshop Program](/previous/KG4IR-SIGIR17/program)
 
 
 

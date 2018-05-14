@@ -20,7 +20,9 @@ exclude:
 - alembic-jekyll-theme.gemspec
 
 # 2. Installed Gems
-plugins:
+# plugins:
+gems: [jekyll-paginate, jekyll-seo-tag]
+plugins_dir:
 - jekyll-sitemap
 - jekyll-mentions
 - jekyll-paginate
@@ -28,6 +30,7 @@ plugins:
 - jekyll-redirect-from
 - jekyll-feed
 - jemoji
+- jekyll-paginate
 
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
@@ -91,7 +94,7 @@ navigation_header:
   Submit and Dates: /submit/
 #  Important Dates: /dates/
   Organization: /organization/
-  Previous: /previous/
+#  Previous: /previous/
 
 navigation_footer:
   Created by Chenyan Xiong: http://www.cs.cmu.edu/~cx/
