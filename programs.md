@@ -13,8 +13,8 @@ Talk details coming soon...
 
 
 ### Contributed Talks
-* Overcoming Low-Utility Facets for Complex Answer Retrieval. Sean MacAvaney, Andrew Yates, Arman Cohan, Luca Soldaini, Kai Hui, Nazli Goharian and Ophir Frieder. 
-* Neural Variational Entity Set Expansion for Automatically Populated Knowledge Graphs. Pushpendre Rastogi, Adam Poliak, Vince Lyzinski and Benjamin Van Durme.
-* Summarizing Entities using Distantly Supervised Information Extractors. Travis Wolfe, Annabelle Carrell, Mark Dredze and Benjamin Van Durme.
-* Automated Knowledge Hierarchy Assessment. Guruprasad Nayak, Sourav Dutta, Deepak Ajwani, Pat Nicholson and Alessandra Sala.
-* WordNetContext: Information Retrieval-friendly access to WordNet Senses. Chumki Basu, Laura Dietz and Christiane Fellbaum. 
+* Overcoming Low-Utility Facets for Complex Answer Retrieval---Sean MacAvaney, Andrew Yates, Arman Cohan, Luca Soldaini, Kai Hui, Nazli Goharian and Ophir Frieder. 
+* Neural Variational Entity Set Expansion for Automatically Populated Knowledge Graphs---Pushpendre Rastogi, Adam Poliak, Vince Lyzinski and Benjamin Van Durme.
+* Summarizing Entities using Distantly Supervised Information Extractors---Travis Wolfe, Annabelle Carrell, Mark Dredze and Benjamin Van Durme.
+* Automated Knowledge Hierarchy Assessment---Guruprasad Nayak, Sourav Dutta, Deepak Ajwani, Pat Nicholson and Alessandra Sala.
+* WordNetContext: Information Retrieval-friendly access to WordNet Senses---Chumki Basu, Laura Dietz and Christiane Fellbaum. 
