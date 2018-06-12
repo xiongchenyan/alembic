@@ -55,7 +55,8 @@ Authors planning a submission to the KG4IR Special Issue in the Information Retr
 
 [Paper Submission](/submit)
 
-
 [Important Dates](/dates)
+
+[Tentative Programs](/programs)
 
 Join our mailing list: kg4ir@googlegroups.com
