@@ -59,4 +59,6 @@ Authors planning a submission to the KG4IR Special Issue in the Information Retr
 
 [Tentative Programs](/programs)
 
+[Keynotes](/keynotes) 
+
 Join our mailing list: kg4ir@googlegroups.com
