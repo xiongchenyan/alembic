@@ -57,7 +57,7 @@ Authors planning a submission to the KG4IR Special Issue in the Information Retr
 
 [Important Dates](/dates)
 
-[Tentative Programs](/programs)
+[Programs](/programs)
 
 [Keynotes](/keynotes) 
 
