@@ -61,4 +61,6 @@ Authors planning a submission to the KG4IR Special Issue in the Information Retr
 
 [Keynotes](/keynotes) 
 
+[Proceedings](http://ceur-ws.org/Vol-2127/)
+
 Join our mailing list: kg4ir@googlegroups.com
